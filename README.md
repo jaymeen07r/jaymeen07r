@@ -126,13 +126,6 @@ I am driven by the belief that technology should not only be powerful, but meani
   
 ---
 
-### 📂 All Projects
-
-A complete and organized list of all repositories:
-
-👉 https://github.com/jaymeen07-r/projects-list
-
----
 
 ## 🚀 Impact View
 
